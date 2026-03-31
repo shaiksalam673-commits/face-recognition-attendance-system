@@ -1,0 +1,6 @@
+cv_env/
+__pycache__/
+*.pyc
+trainer/
+dataset/
+attendance.csv
